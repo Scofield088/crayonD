@@ -28,5 +28,5 @@ The **Tech Gadget Advisor Chatbot** is an intelligent assistant designed to help
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Scofield088/crayon.git
+   git clone https://github.com/Scofield088/crayonD.git
    cd tech-gadget-chatbot
